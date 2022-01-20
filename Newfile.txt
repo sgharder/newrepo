@@ -7,3 +7,5 @@
 3.Why is there so much PITA about..?
 
 4. Getting the hang of it now, what would you like to do today?
+
+5. Where is this located in visual code?
